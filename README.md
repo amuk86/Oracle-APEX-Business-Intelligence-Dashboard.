@@ -17,7 +17,7 @@ query interface powered by Ollama.
 
 ## Project structure
 
-All application files are in [`amu's stuff/`](amu%27s%20stuff/):
+All application files:
 
 - `main.py` - application entry point
 - `configer.py` - API endpoints and output configuration
@@ -50,7 +50,7 @@ python -m pip install pandas plotly requests urllib3
 Run the application from the directory containing `main.py`:
 
 ```bash
-cd "amu's stuff"
+cd "File_name"
 python main.py
 ```
 
