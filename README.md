@@ -70,7 +70,7 @@ ollama serve
 In a separate terminal, run the application:
 
 ```bash
-cd "amu's stuff"
+cd "file_name"
 python main.py
 ```
 
